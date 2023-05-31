@@ -1,0 +1,17 @@
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.deps.json
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.runtimeconfig.json
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.pdb
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Domain.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\bin\Debug\net7.0\EstoqueApp.Domain.pdb
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.csproj.AssemblyReference.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.AssemblyInfo.cs
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.csproj.CopyComplete
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\refint\EstoqueApp.Infra.Data.SqlServer.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.pdb
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.genruntimeconfig.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Infra.Data.SqlServer\obj\Debug\net7.0\ref\EstoqueApp.Infra.Data.SqlServer.dll

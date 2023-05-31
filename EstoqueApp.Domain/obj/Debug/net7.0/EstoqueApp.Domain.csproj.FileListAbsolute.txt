@@ -1,0 +1,12 @@
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\bin\Debug\net7.0\EstoqueApp.Domain.deps.json
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\bin\Debug\net7.0\EstoqueApp.Domain.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\bin\Debug\net7.0\EstoqueApp.Domain.pdb
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.csproj.AssemblyReference.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.AssemblyInfoInputs.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.AssemblyInfo.cs
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.csproj.CoreCompileInputs.cache
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\refint\EstoqueApp.Domain.dll
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\EstoqueApp.Domain.pdb
+C:\dev\EstoqueApp.Api\EstoqueApp.Domain\obj\Debug\net7.0\ref\EstoqueApp.Domain.dll
